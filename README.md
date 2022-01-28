@@ -1,4 +1,4 @@
-## Enzo Pita
+# Enzo Pita
 
 ![Twitter](https://flat.badgen.net/badge/twitter/@enzopita/purple?icon=twitter)
 
