@@ -10,3 +10,4 @@ I'm Enzo, a final-year Computer Science student at **UNIP**, living in Santos, S
 - **Languages:** TypeScript, Python, C#, Go
 - **Back-end:** Node.js, AdonisJS, NestJS, ASP.NET, PostgreSQL
 - **Front-end:** React, Svelte
+- **Infra:** RHEL, Ansible, OpenTofu
